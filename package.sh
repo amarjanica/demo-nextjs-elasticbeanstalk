@@ -8,4 +8,4 @@ set -e
 export NODE_ENV=production
 npm run build
 
-zip -r app.zip .next pages public styles *.json *.js
+zip -r app.zip .platform .next pages public styles *.json *.js
