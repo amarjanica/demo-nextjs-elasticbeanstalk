@@ -15,3 +15,5 @@ yarn dev
 ## Deploy
 
 Run `package.sh` and upload app.zip to your elastic beanstalk environment
+
+Entire process is documented in [Configure Next.js nginx and elastic beanstalk](https://www.amarjanica.com/serve-nextjs-behind-nginx-or-how-to-setup-nextjs-on-elastic-beanstalk).
